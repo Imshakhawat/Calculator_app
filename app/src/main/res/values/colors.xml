@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="goldenKeypad">#fd9e2b</color>
+    <color name="display">#2b2d2f</color>
+    <color name="nomalkeys">#5f6062</color>
+    <color name="firstrow">#3f4143</color>
+    #838587
+    <color name="layerback">#838587</color>
+
+</resources>
